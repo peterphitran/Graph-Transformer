@@ -1,6 +1,9 @@
 # Notes
 
 https://colab.research.google.com/drive/1jw6YKLhKPY1ExdW1mGor1rxQT1VRwzuG#scrollTo=LlWWga8ixwvg
+https://pytorch-geometric.readthedocs.io/en/2.7.0/tutorial/graph_transformer.html
+
+Will look to test with different linear transformers in the future in place of PerformerAttention
 
 ## Transformers
 
